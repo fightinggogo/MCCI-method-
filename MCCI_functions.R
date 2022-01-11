@@ -1,5 +1,5 @@
 #####################################################################################################
-# this code file contains all the functions and the main program used to implement the MCCI method; #              #
+# this code file contains all the functions and the main program used to implement the MCCI method; #  
 # users don't have to modify this code file                                                         #
 #####################################################################################################
 
